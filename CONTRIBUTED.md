@@ -2,7 +2,7 @@
 
 - P3TERX/Actions-OpenWrt
   
-  https://github.com/P3TERX/Actions-OpenWrt
+  https://github.com/kamjove-mu/Actions-OpenWrt
   
   https://p3terx.com/archives/build-openwrt-with-github-actions.html
 
