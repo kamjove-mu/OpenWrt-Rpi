@@ -6,11 +6,11 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build x86_64 Lean's OpenWrt
+name: Build x86_64 OpenWrt
 
 on:
   repository_dispatch:
-    types: [lean, x86_64]
+    types: [x86_64]
   workflow_dispatch:
   schedule:
     - cron: 0 18 * * *
