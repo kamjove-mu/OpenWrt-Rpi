@@ -25,9 +25,7 @@
 - **如果你是具有丰富 OpenWrt 使用经验的用户，且追求精简与按需订制的固件，可以移步本项目的姊妹项目: [OpenWrt-Mini](https://github.com/SuLingGG/OpenWrt-Mini) 看看~**
 
 ## 设备支持情况
-|    x86_64 (64位)    | [✅](https://github.com/SuLingGG/OpenWrt-Rpi/actions/workflows/build-x86_64-lean-openwrt.yml?query=is%3Asuccess) |                              -                               |                              -                               |
-| x86_generic (32位)  | [✅](https://github.com/SuLingGG/OpenWrt-Rpi/actions/workflows/build-x86_generic-lean-openwrt.yml?query=is%3Asuccess) |                              -                               |                              -                               |
-
+|    x86_64 (64位)    | [✅](https://github.com/SuLingGG/OpenWrt-Rpi/actions/workflows/build-x86_64-lean-openwrt.yml?query=is%3Asuccess) |                         
 ## 相关文档
 
 由于内容过多，为增加可读性，现将各板块内容分拆为文档分篇加以介绍:
