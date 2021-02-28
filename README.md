@@ -51,11 +51,6 @@
 
 [**安装及初始设置**](https://mlapp.cn/1010.html): 包含固件在全新安装/升级/以及安装完成后一些初始设置的说明
 
-**内置功能**:
-
-(建议保存至本地放大查看)
-
-![内置功能](https://shop.io.mi-img.com/app/shop/img?id=shop_916dbe6c979ca94b52b6be2fc12eb120.png)
 
 ## 鸣谢
 
